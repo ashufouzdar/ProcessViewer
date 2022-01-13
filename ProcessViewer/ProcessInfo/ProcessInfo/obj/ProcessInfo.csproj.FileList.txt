@@ -1,0 +1,10 @@
+bin\Release\ProcessInfo.dll
+bin\Release\ProcessInfo.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ProcessInfo.dll
+obj\Release\ProcessInfo.pdb
+bin\Debug\ProcessInfo.dll
+bin\Debug\ProcessInfo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProcessInfo.dll
+obj\Debug\ProcessInfo.pdb
